@@ -1,0 +1,1 @@
+{[{"username": reza,"password": pmWkWSBCL51Bfkhn79xPuKBKHz//H6B+mY6G9/eieuM=,"balance": 500.0,"ID": 10587537,"history": {[{"typeOfTransAction": deposit,"mountOfMoneyInvolved": 500.0,"toWho": system,"Date": 19-03-2025 11:26:32,"IDoT" : 18756366}]}},{"username": ben,"password": pmWkWSBCL51Bfkhn79xPuKBKHz//H6B+mY6G9/eieuM=,"balance": 0.0,"ID": 73486523,"history": {[]}}]}
